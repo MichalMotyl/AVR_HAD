@@ -1,10 +1,10 @@
-package com.example.motyl.tutorial2.avr_lan_client;
+package com.example.motyl.AvrHAD.avr_lan_client;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.util.Log;
 
-import com.example.motyl.tutorial2.MainActivity;
+import com.example.motyl.AvrHAD.MainActivity;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;

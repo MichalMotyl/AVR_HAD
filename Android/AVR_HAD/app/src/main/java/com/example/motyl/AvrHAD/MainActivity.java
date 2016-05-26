@@ -1,4 +1,4 @@
-package com.example.motyl.tutorial2;
+package com.example.motyl.AvrHAD;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -20,7 +20,7 @@ import android.widget.LinearLayout;
 import android.widget.TabHost;
 import android.widget.TextView;
 import android.widget.ToggleButton;
-import com.example.motyl.tutorial2.avr_lan_client.avr_client;
+import com.example.motyl.AvrHAD.avr_lan_client.avr_client;
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;

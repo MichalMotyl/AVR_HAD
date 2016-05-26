@@ -1,4 +1,4 @@
-package com.example.motyl.tutorial2;
+package com.example.motyl.AvrHAD;
 
 import org.junit.Test;
 

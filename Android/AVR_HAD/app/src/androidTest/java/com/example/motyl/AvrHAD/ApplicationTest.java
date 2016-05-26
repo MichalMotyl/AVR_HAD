@@ -1,4 +1,4 @@
-package com.example.motyl.tutorial2;
+package com.example.motyl.AvrHAD;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
