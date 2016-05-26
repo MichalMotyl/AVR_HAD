@@ -1,0 +1,9 @@
+build-AVR-AVR-Default
+build-AVR-Desktop-Default
+*.lst
+*.o
+*.o.d
+*.eep
+*.lss
+*.map
+*.sym
