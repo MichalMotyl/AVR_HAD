@@ -1,5 +1,6 @@
 build-AVR-AVR-Default
 build-AVR-Desktop-Default
+Android/AVR_HAD/build
 *.lst
 *.o
 *.o.d
