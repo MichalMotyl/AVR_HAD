@@ -17,4 +17,9 @@
   - cmake scripts for AVR by Matthias Kleemann
   - network stack library by Pascal Stang
   - enc28j60 driver
+
+4.TODO
+  - add renaming avr device and display avr device insted of ip address
+  - add external ip address to connect with when client is not connected to local network
+
   
